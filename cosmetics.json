@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Gnarl",
+    "type": "Hair",
+    "rarity": "Legendary",
+    "description": ":3",
+    "model": { "obj": "gnarl.obj" },
+    "texture": "gnarl.png"
+  }
+]
